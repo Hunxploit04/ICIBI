@@ -109,7 +109,6 @@ if [ $no = AI ]; then
     else 
     echo ""
     echo -e $cy"Perintah tidak ditemukan !"
-
-
-    
 fi
+
+# Dilarang Recode kecuali izin sama Adminnya :)
