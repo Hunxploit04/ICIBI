@@ -26,7 +26,7 @@ lalu masukan ```<link vidio Youtube>```
 <img src="cara.png" >
 
 ### INSTALASI DI TERMUX
-### INSTALASI DI LINUX BERBASIS (deb)
+
 git clone repository icibi ```git clone https://github.com/Hunxploit04/ICIBI.git``` sebelum git clone pastikan paket ```git``` sudah terinstall, cara installnya ```pkg install git``` jika sudah masuk ke direktory ICIBI :
 ```
 cd ICIBI
