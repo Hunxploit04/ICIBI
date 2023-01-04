@@ -16,9 +16,34 @@ lalu install ```requirement``` unuk install paket - paket di dalam nya agar tida
 ```
 ketik atau pilh [ AI ]
 ```
-jika sudah kalian bisa menjalankan toolsnya, untuk cara nya cukup mudah pilih nomor 01 untuk donlowad vidio mp4 Youtube
+jika sudah kalian bisa menjalankan toolsnya, untuk cara nya cukup mudah pilih nomor ***01*** untuk donlowad vidio mp4 Youtube jika ingin convert vidio Youtube ke mp3 bisa ketik ***02***
 ```
-ketik 01 
+ketik 01 < untuk donlowad vidio mp4 >
+ketik 02 < untuk conert vidio ke mp3 >
 ```
 lalu masukan ```<link vidio Youtube>```
+
 <img src="cara.png" >
+
+### INSTALASI DI TERMUX
+### INSTALASI DI LINUX BERBASIS (deb)
+git clone repository icibi ```git clone https://github.com/Hunxploit04/ICIBI.git``` sebelum git clone pastikan paket ```git``` sudah terinstall, cara installnya ```pkg install git``` jika sudah masuk ke direktory ICIBI :
+```
+cd ICIBI
+```
+lalu beri izin pada file ```icibi.sh```
+```
+chmod +x icibi.sh
+```
+lalu install ```requirement``` unuk install paket - paket di dalam nya agar tidak ada masalah saat menjalakan tools ini !
+```
+ketik atau pilh [ AI ]
+```
+jika sudah kalian bisa menjalankan toolsnya, untuk cara nya cukup mudah pilih nomor ***01*** untuk donlowad vidio mp4 Youtube jika ingin convert vidio Youtube ke mp3 bisa ketik ***02***
+```
+ketik 01 < untuk donlowad vidio mp4 >
+ketik 02 < untuk conert vidio ke mp3 >
+```
+
+jika sudah semua silahkan di gunakan ^_^
+
